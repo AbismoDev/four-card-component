@@ -41,5 +41,5 @@ Users should be able to:
 ## Author
 
 - Website - In construction
-- Frontend Mentor - [@AbismoDe](https://www.frontendmentor.io/profile/AbismoDev)
+- Frontend Mentor - [@AbismoDev](https://www.frontendmentor.io/profile/AbismoDev)
 - Instagram - [@AbismoDev](https://www.instagram.com/abismodev)
